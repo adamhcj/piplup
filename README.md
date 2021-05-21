@@ -1,3 +1,3 @@
 # piplup ^w^
-github owner: piplupOwo \n
+github owner: piplupOwo <br/>
 github repository: piplup
