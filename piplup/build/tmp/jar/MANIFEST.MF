@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Plugin-Version: 0.0.5
+Plugin-Id: piplupowoplugin-plugin
+Plugin-Provider: rubiak
+Plugin-Description: ^w^ plugin
+Plugin-License: 3-Clause BSD License
+
