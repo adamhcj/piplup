@@ -1,4 +1,5 @@
 # piplup ^w^
+oprs add github repository: <br/>
 github owner: piplupOwo <br/>
 github repository: piplup <br/><br/>
 resources (images and sounds) are in: <a href="https://github.com/piplupOwo/piplup/tree/master/resources"> resources </a> <br/>
