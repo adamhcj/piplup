@@ -5,6 +5,7 @@ github repository: piplup <br/><br/>
 <p> TOB hardmode yellow pool grouping
 <img src="https://github.com/piplupOwo/piplup/blob/master/resources/pool.png?raw=true" />
 </p>
+<br/>
 <p> TOB hardmode cabbage acid splat
 <img src="https://github.com/piplupOwo/piplup/blob/master/resources/acidsplat.png?raw=true" />
 </p>
