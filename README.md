@@ -6,7 +6,7 @@ github repository: piplup <br/><br/>
 <img src="https://github.com/piplupOwo/piplup/blob/master/resources/pool.png?raw=true" />
 </p>
 <br/>
-<p> TOB hardmode cabbage acid splat
+<p> TOB hardmode cabbage acid splat <br/>
 <img src="https://github.com/piplupOwo/piplup/blob/master/resources/acidsplat.png?raw=true" />
 </p>
 <br/><br/>
