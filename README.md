@@ -3,7 +3,7 @@ oprs add github repository: <br/>
 github owner: piplupOwo <br/>
 github repository: piplup <br/><br/>
 
-<p> phosani hands <br/>
+<p> phosani hands with tick timer<br/>
  <img src="https://github.com/piplupOwo/piplup/blob/master/resources/hm%20shadows.png?raw=true" />
   </p>
 <p> TOB hardmode yellow pool grouping
