@@ -3,6 +3,10 @@ oprs add github repository: <br/>
 github owner: piplupOwo <br/>
 github repository: piplup <br/><br/>
 
+disco phosani's nightmare <br/>
+<img src = "https://github.com/piplupOwo/piplup/blob/master/resources/smallerdiscophosani.gif?raw=true" />
+<br/>
+
 <p> phosani hands with tick timer<br/>
  <img src="https://github.com/piplupOwo/piplup/blob/master/resources/hm%20shadows.png?raw=true" />
   </p>
