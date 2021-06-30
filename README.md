@@ -1,7 +1,8 @@
 # piplup ^w^
 oprs add github repository: <br/>
 github owner: piplupOwo <br/>
-github repository: piplup <br/><br/>
+github repository: piplup <br/>
+main plugin name: piplupOwo plugin <br/>
 
 disco phosani's nightmare <br/>
 <img src = "https://github.com/piplupOwo/piplup/blob/master/resources/smallerdiscophosani.gif?raw=true" />
