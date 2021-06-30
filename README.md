@@ -3,7 +3,9 @@ oprs add github repository: <br/>
 github owner: piplupOwo <br/>
 github repository: piplup <br/><br/>
 
-phosani hands
+<p> phosani hands <br/>
+ <img src="https://github.com/piplupOwo/piplup/blob/master/resources/hm%20shadows.png?raw=true" />
+  </p>
 <p> TOB hardmode yellow pool grouping
 <img src="https://github.com/piplupOwo/piplup/blob/master/resources/pool.png?raw=true" />
 </p>
