@@ -1,8 +1,4 @@
-<style>
- p::before {
-  content: url("https://cdn.discordapp.com/attachments/818102115058450474/887315665273368596/pipbw.gif");
- }
-</style>
+
 # piplup ^w^ <img src="https://cdn.discordapp.com/attachments/818102115058450474/887315665273368596/pipbw.gif" />
 oprs add github repository: <br/>
 github owner: piplupOwo <br/>
