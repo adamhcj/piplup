@@ -1,4 +1,4 @@
-
+<h1>Retired, as 3rd party clients are now restricted.</h1>
 # OPRS plugin: piplup ^w^ <img src="https://cdn.discordapp.com/attachments/818102115058450474/887315665273368596/pipbw.gif" style="opacity: 0.1" />
 oprs add github repository: <br/>
 github owner: piplupOwo <br/>
